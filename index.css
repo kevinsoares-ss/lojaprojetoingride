@@ -433,8 +433,9 @@
        PORTFOLIO — OBRAS DE ARTE PARA VESTIR
     ═══════════════════════════════════════════════════ */
     .portfolio {
-      background: var(--bg);
+      background:rgb(228, 223, 223);
       padding: var(--section) 0;
+      
     }
     .portfolio-header {
       text-align: center;
